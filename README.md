@@ -10,16 +10,6 @@ I'm a passionate Full Stack Developer with a background in building web and mobi
 - **Database**: SQL, MongoDB
 - **Version Control**: Git, GitHub
 
-## 🚀 What I'm Working On
-- Developing ROBLOX experiences using **Luau**
-- Building scalable full stack web applications
-- Researching vulnrabilities for random sites  
-  
-
 ## 📫 How to Reach Me
 - [Email](mailto:devid.saralidze@gmail.com)
-
-## 💡 Fun Fact
-JavaScript has a method called toString(2) that can convert a number into its binary equivalent
-
 
